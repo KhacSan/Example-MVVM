@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="fv">
+        <attr name="tp_size" format="dimension"/>
+        <attr name="tp_anti_alias" format="boolean"/>
+        <attr name="tp_color" format="color"/>
+        <attr name="tp_dither" format="boolean"/>
+        <attr name="tp_style" format="enum"/>
+        <attr name="tp_stroke_join" format="enum"/>
+    </declare-styleable>
+</resources>

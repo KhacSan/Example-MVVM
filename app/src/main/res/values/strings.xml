@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="easy">Easy</string>
+    <string name="diff">Difficult</string>
+    <string name="message_empty_pull_douwn_refresh">No data!\nPull down to refresh</string>
+    <string name="something_went_wrong">Có lỗi xảy ra xin vui lòng thử lại sau!</string>
+    <string name="empty_list_post">Danh sách rỗng \n Kéo xuống để tại lại</string>
+    <string name="viewed">Đã xem</string>
+
+</resources>
